@@ -1,5 +1,7 @@
 # TicTacToe
 
+Try it out: [tic-tac-toe-pwa](https://tic-tac-toe-d1165.web.app/)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.6.
 
 ## Development server
